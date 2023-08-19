@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/paloma_s__f/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=14%> </a>  
 </div>
 
-_🖥️ Estudando React_ <br>
+_🖥️ Estudando Java_ <br>
 _📚 Cursando Ciência da Computução_
 
 <div align="center">  
