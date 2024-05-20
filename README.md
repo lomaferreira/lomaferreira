@@ -1,8 +1,7 @@
 # Olá, eu sou Paloma Ferreira! 
-<div align='' style="display:flex; gap:10%;
-  align-items: center;">
+<div align='center'>
 <img src=".github/octocat.png" width=30%/> 
-<div ><i>“Casada com a literatura e amante da tecnologia”</i></div> 
+<div align='center' ><i>“Casada com a literatura e amante da tecnologia”</i></div> 
 </div>
 
 #
