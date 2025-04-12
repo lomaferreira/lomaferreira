@@ -1,41 +1,44 @@
-# Olá, eu sou Paloma Ferreira! 
-<div align='center'>
-<img src=".github/octocat.png" width=30%/> 
+<h1 align='center'> Hello 🌍! Eu sou Paloma Ferreira! </h1>
+
+<!--<div align='center'>
+<img src=".github/octocat.png" width=30%/> -->
+<div align='center' ><p> 👩🏾‍💻 Graduanda em Ciência da Computação na UFMA</p></div>
 <div align='center' ><i>“Casada com a literatura e amante da tecnologia”</i></div> 
 </div>
 
 #
 
-<div align="center">  
-  <img width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=lomaferreira&show_icons=true&count_private=true&hide_border=true&title_color=B03060&icon_color=B03060&text_color=000000&bg_color=E6E6FA" alt="Paloma Ferreira github stats" /> 
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomaferreira&layout=compact&hide_border=true&title_color=B03060&text_color=000000&bg_color=E6E6FA" />
-</div>
+<div >  
+  <img width="55%" height="100%" src="https://github-readme-stats.vercel.app/api?username=lomaferreira&show_icons=true&count_private=true&hide_border=true&title_color=B03060&icon_color=B03060&text_color=000000&bg_color=E6E6FA" alt="Paloma Ferreira github stats" /> 
+  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomaferreira&layout=compact&hide_border=true&title_color=B03060&text_color=000000&bg_color=E6E6FA" />
+</div><br>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lomaferreira&bg_color=E6E6FA&color=B03060&line=3d3846&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align=''>
-<p style="font-size:25px">Conhecimentos:</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth=10% width=10%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth=10% width=10% />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth=10% width=10% />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth=10% width=10% />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth=10% width=10% />     
+<div  align='center'>
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth=5% width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth=5% width=5% />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth=5% width=5% />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth=5% width=5% />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth=5% width=5% />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth=5% width=5% />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" heigth=5% width=5% />-->    
+<img src="https://img.shields.io/badge/Unity-363636?style=for-the-badge&logo=unity&logoColor=white" width=10%> 
+<img src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" width=15%> 
+<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" width=7%>   
+<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" width=12%>  
+<img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" width=8%>  
+<img src="https://img.shields.io/badge/CSS-4682B4?style=for-the-badge&logo=css&logoColor=white" width=8%>   
+<img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white" width=9%>   
+<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" width=12%>   
 </div>
 
 #
-<div align=''>
-<p style="font-size:25px">Estudando:</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" heigth=10% width=10%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth=10% width=10% />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" heigth=10% width=10% />    
+
+<div align='center'>
+<a href="https://www.instagram.com/paloma_s__f/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lomaferreirasantos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lomaferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 #
-<div align=''>
-<p style="font-size:25px">Contatos:</p>
-  <a href="mailto:lomasantos666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width=15%> </a>
-  <a href="https://www.linkedin.com/in/lomaferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=19%> </a>
-  <a href="https://www.instagram.com/paloma_s__f/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width=21%> </a>  
-</div>
 
+![Snake animation](https://github.com/lomaferreira/lomaferreira/blob/output/github-contribution-grid-snake.svg)
