@@ -8,10 +8,6 @@
 
 #
 
-<div >  
-  <img width="55%" height="100%" src="https://github-readme-stats.vercel.app/api?username=lomaferreira&show_icons=true&count_private=true&hide_border=true&title_color=B03060&icon_color=B03060&text_color=000000&bg_color=E6E6FA" alt="Paloma Ferreira github stats" /> 
-  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomaferreira&layout=compact&hide_border=true&title_color=B03060&text_color=000000&bg_color=E6E6FA" />
-</div><br>
 
 <div  align='center'>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth=5% width=5%/>
@@ -39,6 +35,3 @@
 <a href="https://www.linkedin.com/in/lomaferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-#
-
-![Snake animation](https://github.com/lomaferreira/lomaferreira/blob/output/github-contribution-grid-snake.svg)
